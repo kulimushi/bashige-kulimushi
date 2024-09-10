@@ -1,2 +1,0 @@
-# bashige-kulimushi
-bashige
